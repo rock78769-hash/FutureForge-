@@ -1,1 +1,12 @@
-# FutureForge-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FutureForge</title>
+</head>
+<body>
+  <h1>Welcome to FutureForge</h1>
+  <p>Everything is possible.</p>
+</body>
+</html># FutureForge-
